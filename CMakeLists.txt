@@ -622,6 +622,7 @@ set(math_SOURCES
     src/math/src/math.complex.c
     src/math/src/math.trig.c
     src/math/src/modular_arithmetic.c
+    src/math/src/windows.c
     )
 
 set(math_AUTOTESTS_SOURCES
